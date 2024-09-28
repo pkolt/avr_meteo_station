@@ -6,7 +6,7 @@
 
 - Temperature and pressure sensor - **BMP180**
 - OLED Display - **SSD1306**
-- AVR Atmega328P - **Arduino nano**
+- AVR ATmega328P - **Arduino Nano**
 
 ## Development
 
