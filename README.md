@@ -1,6 +1,6 @@
 # AVR Meteo Station
 
-![AVR Meteo Station](./docs/meteo_station.webp)
+![AVR Meteo Station](./docs/meteo_station.jpg)
 
 ## Components
 
